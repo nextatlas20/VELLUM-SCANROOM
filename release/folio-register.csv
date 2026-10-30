@@ -1,0 +1,6 @@
+sequence,folio_id,title,event_id,captured_at,outcome,operator,state
+1,F-04,Glasshouse Ledger,EV-109,2026-09-12T10:30Z,ACCEPT,Mira,READY
+2,F-17,Harbor Almanac,EV-102,2026-09-10T11:05Z,REJECT,Mira,RESCAN
+3,F-22,Canal Toll Book,EV-105,2026-09-11T13:10Z,REJECT,Nia,RESCAN
+4,F-31,Orchard Survey,EV-104,2026-09-11T12:30Z,ACCEPT,Ivo,READY
+5,F-45,Winter Seed Index,,,,,UNSCANNED
